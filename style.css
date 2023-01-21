@@ -2,13 +2,14 @@ h1 {
     text-align:center;
     font-weight:900;
     font-family:Arial;
-    font-size:xx-large;
+    font-size:72px;
     text-shadow: 1px 1px 2px greenyellow;
 }
 h2 {
     text-align: center;
     font-style:italic;
     font-family:Arial;
+    text-shadow: 1px 1px 2px greenyellow;
 }
 p#personal {
     text-align:center;
@@ -17,4 +18,16 @@ p#personal {
 }
 body {
     background-color:blanchedalmond
+}
+
+th#skills{
+    font-size:36px;
+    font-style:italic;
+    font-family:Arial; 
+    text-shadow: 1px 1px 2px greenyellow;
+}
+table{
+    margin-top: 100px;
+    margin-left:300px;
+    font-size:26px
 }
