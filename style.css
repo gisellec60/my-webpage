@@ -16,18 +16,35 @@ p#personal {
     font-weight:900;
     font-family:Arial;
 }
-body {
-    background-color:blanchedalmond
+h3#prof{
+    font-size:26px;
+    font-style:italic;
+    font-family:Arial; 
+    text-shadow: 1px 1px 2px greenyellow;  
+    margin-top: -56px;
+    margin-left:865px;
 }
 
-th#skills{
-    font-size:36px;
+h3#skills {
     font-style:italic;
     font-family:Arial; 
     text-shadow: 1px 1px 2px greenyellow;
-}
-table{
     margin-top: 100px;
-    margin-left:300px;
-    font-size:26px
+    margin-left:500px;
+    font-size:26px;
+}
+
+table {
+    margin-top: 10px;
+    margin-left:500px;
+    font-size:20px;
+}
+
+body {
+    background-color:antiquewhite;
+}
+pre#profile{
+    margin-top: -210px;
+    margin-left:800px;
+    font-size:20px;
 }
