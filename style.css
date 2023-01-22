@@ -13,7 +13,7 @@ h2 {
     text-shadow: 1px 1px 2px greenyellow;
 }
 
-p#personal {
+pre#personal {
     text-align:center;
     font-weight:900;
     font-family:Arial;
@@ -25,7 +25,7 @@ h3#prof{
     font-family:Arial; 
     text-shadow: 1px 1px 2px greenyellow;  
     margin-top: -56px;
-    margin-left:840px;
+    margin-left:940px;
 }
 
 h3#skills {
@@ -50,7 +50,41 @@ body {
 
 pre#profile {
     margin-top: -210px;
-    margin-left:800px;
+    margin-left:900px;
     font-size:20px;
     font-family:Arial; 
+}
+
+h3#rel{
+    font-size:26px;
+    font-style:italic;
+    font-family:Arial; 
+    text-shadow: 1px 1px 2px greenyellow;  
+    margin-top: 15px;
+    margin-left:930px;
+}
+
+h3#compute{
+    font-style:italic;
+    font-family:Arial; 
+    text-shadow: 1px 1px 2px greenyellow;
+    margin-top: 35px;
+    margin-left:500px;
+    font-size:26px;
+}
+
+ul#env{
+    margin-top: 10px;
+    margin-left:500px;
+    font-size:20px;
+    font-family:Arial; 
+}
+
+div.vl {
+  border-left: 6px solid rgb(131, 149, 104);
+  height: 700px;
+  position: absolute;
+  left: 50%;
+  margin-left: 0px;
+  top: 400px;
 }
