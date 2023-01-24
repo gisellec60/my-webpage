@@ -84,7 +84,7 @@ div.vl {
   border-left: 6px solid rgb(131, 149, 104);
   height: 700px;
   position: absolute;
-  left: 50%;
-  margin-left: 0px;
+  left: 950px;
+  margin-left: -3rem;
   top: 400px;
 }
