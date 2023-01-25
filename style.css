@@ -130,28 +130,36 @@ pre#heading1{
     font-style:italic;
  } 
 
+h3#education{
+    margin-top: -200px;
+    margin-left:830px;
+    font-size:22px;
+    font-family:Arial; 
+    font-style:italic;
+    text-shadow: 1px 1px 2px greenyellow;
+ } 
 
  ul#list1{
     margin-top:-34px;
     margin-left:820px;
     font-size:20px;
     font-family:Arial; 
-   ;
- }
+}
+
 ul#list2{
     margin-top:-30px;
     margin-left:820px;
     font-size:20px;
     font-family:Arial; 
-   ;
  }
+
  ul#list3{
     margin-top:-35px;
     margin-left:820px;
     font-size:20px;
     font-family:Arial; 
-   ;
- }
+}
+
   ul#list4{
     margin-top:-38px;
     margin-left:95px;
@@ -161,4 +169,11 @@ ul#list2{
     flex-wrap:wrap;
     flex-direction:column;
     width:600px;
+ }
+
+ pre#edu{
+    margin-top: 20px;
+    margin-left:800px;
+    font-size:20px;
+    font-family:Arial; 
  }
