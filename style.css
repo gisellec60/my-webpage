@@ -24,8 +24,17 @@ h3#prof{
     font-style:italic;
     font-family:Arial; 
     text-shadow: 1px 1px 2px greenyellow;  
-    margin-top: -56px;
-    margin-left:940px;
+    margin-top: 100px;
+    margin-left:840px;
+}
+
+h3#current {
+    font-style:italic;
+    font-family:Arial; 
+    text-shadow: 1px 1px 2px greenyellow;
+    margin-top: -1115px;
+    margin-left:100px;
+    font-size:26px;
 }
 
 h3#skills {
@@ -33,24 +42,24 @@ h3#skills {
     font-family:Arial; 
     text-shadow: 1px 1px 2px greenyellow;
     margin-top: 100px;
-    margin-left:500px;
+    margin-left:100px;
     font-size:26px;
 }
 
 table {
     margin-top: 10px;
-    margin-left:500px;
+    margin-left:100px;
     font-size:20px;
     font-family:Arial; 
 }
 
 body {
-    background-color:antiquewhite;
+    background-color:rgb(227, 220, 210);
 }
 
 pre#profile {
-    margin-top: -210px;
-    margin-left:900px;
+    margin-top: -35px;
+    margin-left:800px;
     font-size:20px;
     font-family:Arial; 
 }
@@ -60,31 +69,96 @@ h3#rel{
     font-style:italic;
     font-family:Arial; 
     text-shadow: 1px 1px 2px greenyellow;  
-    margin-top: 15px;
-    margin-left:930px;
+    margin-top: -20px;
+    margin-left:830px;
 }
 
 h3#compute{
     font-style:italic;
     font-family:Arial; 
+    margin-top:50px;   
     text-shadow: 1px 1px 2px greenyellow;
-    margin-top: 35px;
-    margin-left:500px;
+    margin-left:100px;
     font-size:26px;
 }
 
 ul#env{
-    margin-top: 10px;
-    margin-left:500px;
+    margin-top: 25px;
+    margin-left:100px;
     font-size:20px;
     font-family:Arial; 
 }
 
 div.vl {
   border-left: 6px solid rgb(131, 149, 104);
-  height: 700px;
+  height: 1500px;
   position: absolute;
-  left: 950px;
+  left: 850px;
   margin-left: -3rem;
   top: 400px;
 }
+
+pre#heading1{
+    margin-top: -10px;
+    margin-left:770px;
+    font-size:22px;
+    font-family:Arial; 
+    font-style:italic;
+ }  
+
+ pre#heading2{
+    margin-top: 10px;
+    margin-left:770px;
+    font-size:22px;
+    font-family:Arial; 
+    font-style:italic;
+ }  
+
+ pre#heading3{
+    margin-top: 10px;
+    margin-left:770px;
+    font-size:22px;
+    font-family:Arial; 
+    font-style:italic;
+ }  
+
+ pre#heading4{
+    margin-top: 15px;
+    margin-left:50px;
+    font-size:22px;
+    font-family:Arial; 
+    font-style:italic;
+ } 
+
+
+ ul#list1{
+    margin-top:-34px;
+    margin-left:820px;
+    font-size:20px;
+    font-family:Arial; 
+   ;
+ }
+ul#list2{
+    margin-top:-30px;
+    margin-left:820px;
+    font-size:20px;
+    font-family:Arial; 
+   ;
+ }
+ ul#list3{
+    margin-top:-35px;
+    margin-left:820px;
+    font-size:20px;
+    font-family:Arial; 
+   ;
+ }
+  ul#list4{
+    margin-top:-38px;
+    margin-left:95px;
+    font-size:20px;
+    font-family:Arial; 
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction:column;
+    width:600px;
+ }
