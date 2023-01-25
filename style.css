@@ -32,7 +32,7 @@ h3#current {
     font-style:italic;
     font-family:Arial; 
     text-shadow: 1px 1px 2px greenyellow;
-    margin-top: -1195px;
+    margin-top: -1170px;
     margin-left:100px;
     font-size:26px;
 }
@@ -98,9 +98,64 @@ div.vl {
   top: 400px;
 }
 
+div#triangle-1{
+    width: 0;
+	height: 0;
+    top: 635px;
+    position: absolute;
+    left: 838px;
+    border-top: 8px solid transparent;
+	border-left: 26px solid rgb(77, 116, 18);
+	border-bottom: 8px solid transparent;
+}
+
+div#triangle-2{
+    width: 0;
+	height: 0;
+    top: 765x;
+    position: absolute;
+    left: 838px;
+    border-top: 8px solid transparent;
+	border-left: 26px solid rgb(77, 116, 18);
+	border-bottom: 8px solid transparent;
+}
+
+div#triangle-3{
+    width: 0;
+	height: 0;
+    top: 888px;
+    position: absolute;
+    left: 838px;
+    border-top: 8px solid transparent;
+	border-left: 26px solid rgb(77, 116, 18);
+	border-bottom: 8px solid transparent;
+}
+
+div#triangle-4{
+    width: 0;
+	height: 0;
+    top: 1435px;
+    position: absolute;
+    left: 838px;
+    border-top: 8px solid transparent;
+	border-left: 26px solid rgb(77, 116, 18);
+	border-bottom: 8px solid transparent;
+}
+
+div#triangle-5{
+    width: 0;
+	height: 0;
+    top: 480px;
+    position: absolute;
+    left: 60px;
+    border-top: 8px solid transparent;
+	border-left: 26px solid rgb(77, 116, 18);
+	border-bottom: 8px solid transparent;
+}
+
 pre#heading1{
-    margin-top: 40px;
-    margin-left:770px;
+    margin-top: 30px;
+    margin-left:820px;
     font-size:22px;
     font-family:Arial; 
     font-style:italic;
@@ -108,7 +163,7 @@ pre#heading1{
 
  pre#heading2{
     margin-top: 40px;
-    margin-left:770px;
+    margin-left:820px;
     font-size:22px;
     font-family:Arial; 
     font-style:italic;
@@ -116,7 +171,7 @@ pre#heading1{
 
  pre#heading3{
     margin-top: 40px;
-    margin-left:770px;
+    margin-left:820px;
     font-size:22px;
     font-family:Arial; 
     font-style:italic;
@@ -141,21 +196,21 @@ h3#education{
 
  ul#list1{
     margin-top:-34px;
-    margin-left:820px;
+    margin-left:870px;
     font-size:20px;
     font-family:Arial; 
 }
 
 ul#list2{
     margin-top:-30px;
-    margin-left:820px;
+    margin-left:870px;
     font-size:20px;
     font-family:Arial; 
  }
 
  ul#list3{
     margin-top:-35px;
-    margin-left:820px;
+    margin-left:870px;
     font-size:20px;
     font-family:Arial; 
 }
