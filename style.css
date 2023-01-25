@@ -18,6 +18,7 @@ pre#personal {
     font-weight:900;
     font-family:Arial;
     margin-bottom:90px;
+    top : 200px; 
 }
 
 h3#prof, h3#current {
@@ -25,34 +26,33 @@ h3#prof, h3#current {
     font-style:italic;
     font-family:Arial; 
     text-shadow: 1px 1px 2px greenyellow;  
-    display:inline
-   
- }  
+    display:inline;
+}  
 
 h3#current {
     margin-left :100px;
-    margin-top:100px;
 }
 
 h3#prof {
-   margin-left:440px;
+   margin-left:430px;
 }
 
 h3#skills {
     font-style:italic;
     font-family:Arial; 
     text-shadow: 1px 1px 2px greenyellow;
-    margin-top: -120px;
+    margin-top: 940px;
     margin-left:100px;
     font-size:26px;
     position:absolute;
 }
 
 table {
-    margin-top: 10px;
+    margin-top: 975px;
     margin-left:100px;
     font-size:20px;
     font-family:Arial; 
+    position:absolute;
 }
 
 body {
@@ -91,17 +91,19 @@ h3#rel{
 h3#compute{
     font-style:italic;
     font-family:Arial; 
-    margin-top:50px;   
+    margin-top:1200px;   
     text-shadow: 1px 1px 2px greenyellow;
     margin-left:100px;
     font-size:26px;
+    position:absolute;
 }
 
 ul#env{
-    margin-top: 25px;
+    margin-top: 1240px;
     margin-left:100px;
     font-size:20px;
     font-family:Arial; 
+    position:absolute;
 }
 
 div.vl {
@@ -148,7 +150,7 @@ div#h2 {
 div#triangle-1{
     width: 0;
 	height: 0;
-    top: 635px;
+    top: 590px;
     position: absolute;
     left: 838px;
     border-top: 8px solid transparent;
@@ -161,7 +163,7 @@ div#triangle-2{
 	height: 0;
     top: 765x;
     position: absolute;
-    left: 838px;
+    left:10px;
     border-top: 8px solid transparent;
 	border-left: 26px solid rgb(77, 116, 18);
 	border-bottom: 8px solid transparent;
@@ -170,7 +172,7 @@ div#triangle-2{
 div#triangle-3{
     width: 0;
 	height: 0;
-    top: 868px;
+    top: 833px;
     position: absolute;
     left: 838px;
     border-top: 8px solid transparent;
@@ -181,7 +183,7 @@ div#triangle-3{
 div#triangle-4{
     width: 0;
 	height: 0;
-    top: 1347px;
+    top: 1290px;
     position: absolute;
     left: 838px;
     border-top: 8px solid transparent;
@@ -201,58 +203,68 @@ div#triangle-5{
 }
 
 pre#heading1{
-    margin-top: 150px;
+    margin-top: 152px;
     margin-left:820px;
     font-size:22px;
     font-family:Arial; 
     font-style:italic;
+    position:absolute;
+   
  }  
 
  pre#heading2{
-    margin-top: 40px;
+    margin-top: 388px;
     margin-left:820px;
     font-size:22px;
     font-family:Arial; 
     font-style:italic;
+    position:absolute;
+    
  }  
 
  pre#heading3{
-    margin-top: 40px;
+    margin-top: 850px;
     margin-left:820px;
     font-size:22px;
     font-family:Arial; 
     font-style:italic;
+    position:absolute;
+   
  }  
 
  
 h3#education{
-    margin-top: -300px;
+    margin-top: 1100px;
     margin-left:830px;
     font-size:22px;
     font-family:Arial; 
     font-style:italic;
     text-shadow: 1px 1px 2px greenyellow;
+    position:absolute;
  } 
 
  ul#list1{
-    margin-top:-34px;
+    margin-top:300px;
     margin-left:870px;
     font-size:20px;
     font-family:Arial; 
+    position:absolute;
 }
 
 ul#list2{
-    margin-top:-30px;
+    margin-top:455px;
     margin-left:870px;
     font-size:20px;
     font-family:Arial; 
+    position:absolute;
  }
 
  ul#list3{
-    margin-top:-35px;
+    margin-top:920px;
     margin-left:870px;
     font-size:20px;
     font-family:Arial; 
+    position:absolute;
 }
 
   ul#list4{
@@ -268,8 +280,9 @@ ul#list2{
  }
 
  pre#edu{
-    margin-top: 10px;
+    margin-top: 1130px;
     margin-left:800px;
     font-size:20px;
     font-family:Arial; 
+    position:absolute;
  }
