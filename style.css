@@ -65,7 +65,6 @@ pre#profile  {
     font-family:Arial; 
     font-size:20px;
     position:absolute;
- 
 }
 
 pre#heading4{
@@ -76,7 +75,6 @@ pre#heading4{
     font-style:italic;
     position:absolute;
 } 
-
 
 h3#rel{
     font-size:26px;
@@ -209,8 +207,7 @@ pre#heading1{
     font-family:Arial; 
     font-style:italic;
     position:absolute;
-   
- }  
+}  
 
  pre#heading2{
     margin-top: 380px;
@@ -219,8 +216,7 @@ pre#heading1{
     font-family:Arial; 
     font-style:italic;
     position:absolute;
-    
- }  
+}  
 
  pre#heading3{
     margin-top: 970px;
@@ -229,9 +225,7 @@ pre#heading1{
     font-family:Arial; 
     font-style:italic;
     position:absolute;
-   
  }  
-
  
 h3#education{
     margin-top: 1200px;
@@ -296,3 +290,26 @@ ul#list2{
     font-family:Arial; 
     position:absolute;
  }
+
+ div.website-counter {
+     margin-top:-69px;
+     margin-left: -1070px;
+     font-size:15px;
+ }
+
+ div#count{
+    margin-top:-100px;
+    margin-left:-1230px;
+    font-size:15px;
+ }
+
+ #reset {
+  margin-top: -90px;
+  background-color: #1e981e;
+  cursor: pointer;
+  font-size: 18px;
+  padding: 6px 10px;
+  color: white;
+  border: 0;
+  margin-left: -1230px;
+}
